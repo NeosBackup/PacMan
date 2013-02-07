@@ -375,7 +375,7 @@
   <project path="frameworks/base" name="PAC-man/android_frameworks_base" />
   <project path="packages/apps/Settings" name="PAC-man/android_packages_apps_Settings" />
   <project path="system/core" name="PAC-man/android_system_core" />
-  <project path="vendor/pac" name="PAC-man/android_vendor_pac" />
+  <project path="vendor/pac" name="shrike1978/android_vendor_pac" />
 
   <project groups="default" name="PAC-man/pac" path="pac" >
     <copyfile dest="build-pac.sh" src="build.sh"/>
